@@ -1,0 +1,32 @@
+.section{
+    background-color:rgb(192, 218, 192);
+    text-align: center;
+    line-height: 20px;
+    padding: 1px 1px;
+    
+}
+table{
+    width: 99%;
+    border:3px;
+    border-style: double;
+    table-layout: fixed;
+    margin-left: 5px;
+    background-color: rgb(219, 172, 205);
+    
+}
+table th{
+    text-align:left;
+}
+.my_lst{
+    list-style:square;
+}
+footer{
+    text-align: center;
+    background-color:rgb(192, 218, 192);
+    font-style: italic;
+    
+}
+div{
+    background-color:rgb(235, 207, 238);  
+    
+}
